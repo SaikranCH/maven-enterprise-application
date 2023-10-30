@@ -96,7 +96,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>icicibank release Nexus repository</name>
+	      <name>icicibank release Nexus Repository </name>
 	      <url>http://65.0.135.199:8090/saikiran/repository/icicibank-Release/</url>
 	    </repository>
 		
